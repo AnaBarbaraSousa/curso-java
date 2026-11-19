@@ -42,9 +42,13 @@ public class SwitchCase {
             //o break serve para fechar o parateses ();
             // se não utilizat o break, ele vai eexecutar toda a linha de código até ele encontrar um break;
             
+
         }
-        
+
+        System.out.println("Fim do programa");
+    
     }
+    
 }        
     
 
