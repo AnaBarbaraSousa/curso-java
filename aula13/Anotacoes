@@ -1,0 +1,43 @@
+
+//Aritmeticos
+
+// Operador      Descrição
+//    +          Adição
+//    -          Subtração
+//    *          Multiplicação
+//    /          Divisão
+//    %          Módulo
+//    ++         Incremento
+//    --         Decremento
+
+//Relacionais
+
+// Operador    Descrição
+//    ==       Igual a
+//    !=       Diferente de
+//    >        Maior que
+//    <        Menor que
+//    >=       Maior ou igual a
+//    <=       Menor ou igual a
+
+
+//Logicos
+
+// Operador    Descrição
+//  &      E (AND)
+//  |      OU (OR)
+//  ^      OU Exclusivo (XOR)
+// ||     OU (OR) Curto-circuito
+// &&     E (AND) Curto-circuito
+// !      Negação (NOT)
+
+
+//Tabela Verdade 
+
+//  a.         b.       a & b.       a | b.      a ^ b.      !a
+// Falso.     Falso.    Falso.     Falso.      Falso.     Verdade
+// Verdade.   Falso.    Falso.     Verdade.    Verdade.   Falso.
+// Falso.    Verdade.   Falso.     Verdade.    Verdade.   Verdade.
+// Verdade.  Verdade.   Verdade.   Verdade.    Falso.     Falso.
+
+

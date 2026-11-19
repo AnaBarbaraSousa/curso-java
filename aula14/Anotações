@@ -1,0 +1,18 @@
+// AGENDA 
+// * O que é controle de decisão
+// * IF (se)
+// * IF - ELSE (se - senão)
+// * Múltiplos if - else
+
+
+// Comando IP 
+// * Comandos de dentro de um blovo IF somente são executados se a consdição for verdadeira.
+// * Se a condição for falsa, os comandos não são executados.
+
+
+// Comando IF - ELSE
+// * Comandos dentro do bloco ELSE somente são executados se a condição do IF for falsa;
+
+
+// Multiplos IF - ELSE
+//* É  possível ter vários if-else aninhados!
